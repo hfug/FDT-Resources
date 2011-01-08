@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:projectTemplate xmlns:tns="http://fdt.powerflasher.com/ProjectTemplate"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://fdt.powerflasher.com/ProjectTemplate ../../projectTemplate.xsd">
+	<name>Away 3D</name>
+	<description>AS 3 project for using Away 3D</description>
+	<projectType>AS 3</projectType>
+	<folders>
+		<sourceFolder>src</sourceFolder>
+		<outputFolder>deploy</outputFolder>
+	</folders>
+	<libraries>
+	<swc><path>./libs/away3d_3_6_0.swc</path></swc>
+	</libraries>
+</tns:projectTemplate>

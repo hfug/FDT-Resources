@@ -1,0 +1,35 @@
+h1. Welcome to the FDT-Resources repository.
+
+h2. Our goal:
+
+We want everyone to know how thankful we are to FDT users and the community. It's important to us to make sure they know we are behind them and they have our support. Another step in this commitment is this repository of code, projects, and templates meant to make sure all our users are getting the most out of their FDT experience. 
+
+We'll be posting samples that range from beginner to advanced. We also take requests! If there are samples that either you've made and want to be included or think should we need to make available, let us know.
+
+- The FDT team
+
+h3. project-templates
+
+We've put together some project templates that we find useful. They range from projects with open source frameworks to projects already setup for Flash Authoring.
+
+h3. ant-scripts
+
+A collection of useful scripts using Ant http://ant.apache.org/
+
+h3. code-templates
+
+Code snippets (templates) that can easily imported and put to use right away.
+
+h3. color-themes
+
+Some sample themes to help you skin and color FDT.
+
+h3. sample-projects
+
+Here, we'll be putting fully functional projects that demonstrate various FDT concepts. This is also where we'll be housing templates used in the tutorials on http://fdt.powerflasher.com/docs/Main_Page.
+
+h4. Credits
+
+*SignalsTemplates.xml - By Aiden Taylor http://blog.aidentailor.net/2010/03/23/fdt-as3-signals-templates/
+*Minimal Comps - http://www.minimalcomps.com/
+*Signals - http://github.com/robertpenner/as3-signals
